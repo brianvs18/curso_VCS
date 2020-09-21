@@ -24,3 +24,5 @@ clone o pull para obtener archivos, se le conoce como punto de partida
 realizar cambios con git add
 agregar los cambios con commit
 Esta es una linea nueva
+otra linea para el commit
+otro intento
