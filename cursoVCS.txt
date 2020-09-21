@@ -15,3 +15,11 @@ Como crear un repositorio
 creamos un directorio de archivo
 
 git init para inicializar el proyecto en la carpeta origen del proyecto
+
+Estados de un repositorio
+
+estos son los tres estadsos:
+Modificado, preparado, actualizado
+clone o pull para obtener archivos, se le conoce como punto de partida
+realizar cambios con git add
+agregar los cambios con commit
