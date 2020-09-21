@@ -1,0 +1,17 @@
+Sistema controlador de versiones:
+Es un programa que administra el acceso a los archivos de un proyecto de desarrollo, para mantener un historial de los
+cambios
+
+El repositorio no es unico, todos pueden tener una copia de este
+
+checkout: para descargar los archivos a un ordenador cliente e indica con lo que se va a trabajar
+Stage: es la lista de espera para cargarlos al repositorio
+Update: actualizar los archivos locales
+Commit: corregir los archivos cargados
+Push: para cargar todo al repositorio
+
+Como crear un repositorio
+
+creamos un directorio de archivo
+
+git init para inicializar el proyecto en la carpeta origen del proyecto
